@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SeaJS"
+  id="myeclipse.1343397385694"
+  context-root="/SeaJS"
+  j2ee-spec="5.0"
+  archive="SeaJS.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
